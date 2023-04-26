@@ -95,5 +95,19 @@ section#img02 {
 }
 
 footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 3px;
+}
+
+footer a {
+    text-decoration: none;
+    color: white;
     
+}
+
+footer a:hover {
+    text-decoration: underline;
+    font-weight: bold;
 }
