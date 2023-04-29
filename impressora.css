@@ -1,0 +1,31 @@
+@charset "UTF-8";
+
+* {
+    margin: 5px;
+    padding: 3px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 1em;
+}
+
+header {
+    color: black;
+    text-align: center;
+    font-size: 2em;
+}
+
+header h1 {
+    margin-bottom: 30px;
+}
+
+header p {
+    display: none;
+}
+
+section.imagem p {
+    display: inline-block;
+    padding: 3px;
+}
+
+footer {
+    display: none;
+}
